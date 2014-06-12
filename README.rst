@@ -18,10 +18,10 @@ certificate provided by the server.
 Using jorji
 ===========
 
-With Twisted_
+With Twisted
 ------------
 
-If you're already using Twisted,
+If you're already using Twisted_,
 
 ```python
 from jorji import make_cert, run
