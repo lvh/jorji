@@ -1,6 +1,17 @@
 CHANGES
 =======
 
+* Temporarily disable check-manifest
+* Minor README improvement
+* Don't put Markdown syntax in ReST documents
+
+0.1.1
+-----
+
+* Add MANIFEST.in
+* Add AUTHORS and ChangeLog, courtesy of pbr
+* Add dist/ to gitignore
+* Add build status, coverage badges
 * Add travis.ym
 * Move check-manifest ignored files to setup.cfg
 * Also ignore eggs, not just egg-info directories
