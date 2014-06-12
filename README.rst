@@ -8,12 +8,25 @@
 .. image:: https://coveralls.io/repos/lvh/jorji/badge.png
            :target: https://coveralls.io/r/lvh/jorji
 
-jorji has a forged passp^H^H^H^H^Hcertificate. Will you catch it?
+This is Jorji:
+
+.. image:: https://dl.dropboxusercontent.com/u/38476311/Logos/jorji.png
+
+Jorji has a forged passp^H^H^H^H^Hcertificate:
+
+.. image:: https://dl.dropboxusercontent.com/u/38476311/Logos/jorji-passport.png
+
+Will you catch it?
 
 This contains the tools you need to produce a TLS server (by default,
 an HTTPS server) with bogus certificates. This is useful to write
 integration tests to verify that your application actually checks the
 certificate provided by the server.
+
+(Jorji and his passport are part of the excellent `Papers, Please`_, a
+dystopian game about border control in a fictional communist country
+by `Lucas Pope`_. Lucas has graciously allowed me to use the above
+artwork, because he's awesome. You should go buy his games.)
 
 Using jorji
 ===========
@@ -46,6 +59,8 @@ Contributing to jorji
 
 Please send pull requests to `lvh/jorji`_ on Github.
 
+.. _`Papers, Please`: http://papersplea.se/
+.. _`Lucas Pope`: http://dukope.com/
 .. _Twisted: https://twistedmatrix.com/trac/
 .. _crochet: https://github.com/itamarst/crochet
 .. _Rackspace: http://www.rackspace.com/
