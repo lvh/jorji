@@ -18,7 +18,7 @@ Jorji has a forged passp^H^H^H^H^Hcertificate:
 .. image:: https://dl.dropboxusercontent.com/u/38476311/Logos/jorji-passport.png
            :width: 200px
 
-Will you catch it?
+Would you spot it? Would your software?
 
 (Jorji and his passport are part of the excellent `Papers, Please`_, a
 dystopian game about border control in a fictional communist country
@@ -29,6 +29,10 @@ artwork, because he's awesome. You should go buy his games.)
 server (by default, an HTTPS server) with bogus certificates. This is
 useful to write integration tests to verify that your application
 actually checks the certificate provided by the server.
+
+TLS clients have pretty much one job: verify certificates correctly.
+Most clients don't bother to verify certificates at all, and give
+forgeries way less credible than Jorji's passport a pass.
 
 Using jorji
 ===========
