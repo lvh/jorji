@@ -2,8 +2,11 @@
  jorji
 =======
 
-[![Build Status](https://travis-ci.org/rackerlabs/jorji.svg)](https://travis-ci.org/rackerlabs/jorji)
-[![Coverage Status](https://coveralls.io/repos/rackerlabs/jorji/badge.png)](https://coveralls.io/r/rackerlabs/jorji)
+.. image:: https://travis-ci.org/lvh/jorji.svg
+           :target: https://travis-ci.org/lvh/jorji
+
+.. image:: https://coveralls.io/repos/lvh/jorji/badge.png
+           :target: https://coveralls.io/r/lvh/jorji
 
 jorji has a forged passp^H^H^H^H^Hcertificate. Will you catch it?
 
