@@ -16,6 +16,7 @@ _trial_temp
 MANIFEST
 *.egg-info/*
 *.egg/*
+dist/*
 
 # Virtualenvs
 _venv
