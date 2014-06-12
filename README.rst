@@ -11,22 +11,24 @@
 This is Jorji:
 
 .. image:: https://dl.dropboxusercontent.com/u/38476311/Logos/jorji.png
+           :width: 200px
 
 Jorji has a forged passp^H^H^H^H^Hcertificate:
 
 .. image:: https://dl.dropboxusercontent.com/u/38476311/Logos/jorji-passport.png
+           :width: 200px
 
 Will you catch it?
-
-This contains the tools you need to produce a TLS server (by default,
-an HTTPS server) with bogus certificates. This is useful to write
-integration tests to verify that your application actually checks the
-certificate provided by the server.
 
 (Jorji and his passport are part of the excellent `Papers, Please`_, a
 dystopian game about border control in a fictional communist country
 by `Lucas Pope`_. Lucas has graciously allowed me to use the above
 artwork, because he's awesome. You should go buy his games.)
+
+``jorji`` (this project) contains the tools you need to produce a TLS
+server (by default, an HTTPS server) with bogus certificates. This is
+useful to write integration tests to verify that your application
+actually checks the certificate provided by the server.
 
 Using jorji
 ===========
