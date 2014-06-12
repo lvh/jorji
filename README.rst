@@ -33,15 +33,21 @@ actually checks the certificate provided by the server.
 Using jorji
 ===========
 
+Preparation
+-----------
+
+Create some bogus certs::
+
+  >>> from jorji import make_cert
+  >>> TODO
+
 With Twisted
 ------------
 
-If you're already using Twisted_,
+If you're already using Twisted_::
 
-```python
-from jorji import make_cert, run
-TODO!!!
-```
+  >>> from jorji import start
+  >>> TODO
 
 Without Twisted (a.k.a. with Twisted, secretly, anyway)
 -------------------------------------------------------
