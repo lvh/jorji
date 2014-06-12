@@ -1,0 +1,15 @@
+CHANGES
+=======
+
+* Add travis.ym
+* Move check-manifest ignored files to setup.cfg
+* Also ignore eggs, not just egg-info directories
+* Add requirements.txt
+* Add gitignore
+* Add coveragerc
+* Add build dependencies
+
+0.1.0
+-----
+
+* Initial skeleton
