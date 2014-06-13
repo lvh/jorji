@@ -69,11 +69,11 @@ open-source software on company time.
 Contributing to jorji
 =====================
 
-Please send pull requests to `lvh/jorji`_ on Github.
+Please see the CONTRIBUTING_ file.
 
 .. _`Papers, Please`: http://papersplea.se/
 .. _`Lucas Pope`: http://dukope.com/
 .. _Twisted: https://twistedmatrix.com/trac/
 .. _crochet: https://github.com/itamarst/crochet
 .. _Rackspace: http://www.rackspace.com/
-.. _`lvh/jorji`: https://github.com/lvh/jorji
+.. _CONTRIBUTING: https://github.com/lvh/jorji/blob/master/CONTRIBUTING.rst
