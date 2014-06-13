@@ -1,6 +1,12 @@
 CHANGES
 =======
 
+* Improve README
+* Fix source code markup
+* Scale Jorgi down, make reference more prominent
+* Add awesome logo to README
+* Add some docstrings to make pyflakes happy
+* Update ChangeLog
 * Temporarily disable check-manifest
 * Minor README improvement
 * Don't put Markdown syntax in ReST documents
