@@ -1,6 +1,16 @@
 CHANGES
 =======
 
+* Update check-manifest version and references
+* Move metadata checks into separate tox environment
+* Doctest the README as part of the tox run
+* Add a CONTRIBUTING file
+* Don't grab requirements.txt from {toxinidir}
+
+0.1.2
+-----
+
+* Update ChangeLog
 * Improve README
 * Fix source code markup
 * Scale Jorgi down, make reference more prominent
